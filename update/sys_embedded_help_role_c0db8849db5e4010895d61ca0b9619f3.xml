@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_390590_iplookup.ipaddressinfo_user" name="x_390590_iplookup.ipaddressinfo_user">0cdb8849db5e4010895d61ca0b9619f0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 10:45:15</sys_created_on>
+        <sys_id>c0db8849db5e4010895d61ca0b9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0cdb8849db5e4010895d61ca0b9619f0</sys_name>
+        <sys_package display_value="IPLookup" source="x_390590_iplookup">78630078dbd24010895d61ca0b961937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">78630078dbd24010895d61ca0b961937</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c0db8849db5e4010895d61ca0b9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 10:45:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
